@@ -6,21 +6,25 @@
 tipo_de_operacao = raw_input("Qual o tipo de operção você deseja fazer?\n*apenas operações simples*\n")
 
 #possiveis resultados tipos de operações
+#possiveis entradas para multiplicação
 mult = "multiplicação"
 mult2 = "Multiplicação"
 mult3 = "vezes"
 mult4 = "Vezes"
 
+#possiveis entradas para divisão
 div = "divisão"
 div2= "Divisão"
 div3 = "dividir"
 div4 = "Dividir"
 
+#possiveis entradas para soma
 soma = "Soma"
 soma2 = "soma"
 soma3 = "Mais"
 soma4 = "mais"
 
+#possiveis entradas para subtração
 sub = "Subtração"
 sub2 = "subtração"
 sub3 = "Menos"
