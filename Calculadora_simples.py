@@ -49,7 +49,8 @@ while True:
       segundo_numero = float(raw_input("Informe o segundo numero: "))
       subtracao = primeiro_numero - segundo_numero
       print "O resultado da sua subtração é igual a : %f.2" %subtracao
-  #Condições para potenciação
+ 
+#Condições para potenciação
   elif tipo_de_operacao in pot :
       primeiro_numero = float(raw_input("Informe o primeiro numero: "))
       segundo_numero = float(raw_input("Informe o segundo numero: "))
